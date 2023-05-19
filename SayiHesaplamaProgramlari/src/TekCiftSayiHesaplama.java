@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class miniproje14 {
+public class TekCiftSayiHesaplama {
     public static void main(String[] args){
         //Girilen sayının tek veya çift olup olmadığını bulma programı
 

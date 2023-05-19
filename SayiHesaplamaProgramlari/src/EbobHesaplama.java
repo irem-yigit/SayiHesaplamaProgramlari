@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class miniproje16 {
+public class EbobHesaplama {
     public static int ebobBulma(int sayi1, int sayi2){
 
         int ebob=1;

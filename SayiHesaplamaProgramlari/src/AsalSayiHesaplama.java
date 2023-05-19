@@ -1,4 +1,4 @@
-public class miniproje15 {
+public class AsalSayiHesaplama {
     public static boolean asalMi(int sayi){  //boolean ile asal mı değil mi , true mu false mu karşılaştırmasını yapıyoruz.
         for (int i =2; i<sayi; i++){
             if (sayi % i == 0){   //sayi tam bölünüyorsa asal değil demektir, o sebeple return false deriz.

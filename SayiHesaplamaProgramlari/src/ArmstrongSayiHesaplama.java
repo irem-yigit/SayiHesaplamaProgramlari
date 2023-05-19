@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class miniproje10 {
+public class ArmstrongSayiHesaplama {
     public static void main(String[] args){
         /*Girilen bir sayının Armstrong sayısı olup olmadığını bulma programı
         Örneğin, 4 basamaklı bir sayının armstrong sayısı olabilmesi için şu şartı sağlaması gerekmektedir;
